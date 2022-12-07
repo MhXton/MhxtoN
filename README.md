@@ -26,4 +26,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://pip.me/mahedi098"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://pip.me/mahedi098" /></a></p><br><br>
-<https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg> 
+<p><a href="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg
+">
