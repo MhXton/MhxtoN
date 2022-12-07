@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-<img align="down" alt="coding width="600 src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhxton&label=Profile%20views&color=0e75b6&style=flat" alt="mhxton" /> </p>
 
@@ -29,3 +29,4 @@
 <p><a href="https://ko-fi.com/https://pip.me/mahedi098"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://pip.me/mahedi098" /></a></p><br><br>
 <p><a href="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg
 ">
+  <img align="down" alt="coding width="600 src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
